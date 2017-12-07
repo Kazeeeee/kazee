@@ -1,2 +1,2 @@
 # kazee
-personal web sites;
+personal web site
